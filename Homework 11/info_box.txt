@@ -1,0 +1,51 @@
+Since the beginning of the study of linguistics, numerous attempts at defining what a word is have
+been made, with many different criteria.[5] However, no satisfying definition has yet been found to
+apply to all languages and at all levels of linguistic analysis. It is, however, possible to find
+consistent definitions of "word" at different levels of description.[4]: 6  These include definitions
+on the phonetic and phonological level, that it is the smallest segment of sound that can be theoretically
+isolated by word accent and boundary markers; on the orthographic level as a segment indicated by blank spaces
+in writing or print; on the basis of morphology as the basic element of grammatical paradigms like inflection,
+different from word-forms; within semantics as the smallest and relatively independent carrier of meaning in
+a lexicon; and syntactically, as the smallest permutable and substitutable unit of a sentence.[2]: 1285 
+In some languages, these different types of words coincide and one can analyze, for example, a "phonological
+word" as essentially the same as "grammatical word". However, in other languages they may correspond to elements
+of different size.[4]: 1  Much of the difficulty stems from the eurocentric bias, as languages from outside
+of Europe may not follow the intuitions of European scholars. Some of the criteria developed for "word" can only
+be applicable to languages of broadly European synthetic structure.[4]: 1-3  Because of this unclear status,
+some linguists propose avoiding the term "word" altogether, instead focusing on better defined terms such as
+morphemes.[6] Dictionaries categorize a language's lexicon into individually listed forms called lemmas.
+These can be taken as an indication of what constitutes a "word" in the opinion of the writers of that language.
+This written form of a word constitutes a lexeme.[2]: 670-671  The most appropriate means of measuring the
+length of a word is by counting its syllables or morphemes.[7] When a word has multiple definitions or multiple
+senses, it may result in confusion in a debate or discussion.[8] Phonology. One distinguishable meaning of the
+term "word" can be defined on phonological grounds. It is a unit larger or equal to a syllable, which can be
+distinguished based on segmental or prosodic features, or through its interactions with phonological rules.
+In Walmatjari, an Australian language, roots or suffixes may have only one syllable but a phonologic word must
+have at least two syllables. A disyllabic verb root may take a zero suffix, e.g. luwa-ø 'hit!', but a
+monosyllabic root must take a suffix, e.g. ya-nta 'go!', thus conforming to a segmental pattern of Walmatjari
+words. In the Pitjantjatjara dialect of the Wati language, another language form Australia, a word-medial
+syllable can end with a consonant but a word-final syllable must end with a vowel.[4]: 14 
+In most languages, stress may serve a criterion for a phonological word. In languages with a fixed stress,
+it is possible to ascertain word boundaries from its location. Although it is impossible to predict word
+boundaries from stress alone in languages with phonemic stress, there will be just one syllable with primary
+stress per word, which allows for determining the total number of words in an utterance.[4]: 16 
+Many phonological rules operate only within a phonological word or specifically across word boundaries.
+In Hungarian, dental consonants /d/, /t/, /l/ or /n/ assimilate to a following semi-vowel /j/, yielding
+the corresponding palatal sound, but only within one word. Conversely, external sandhi rules act across
+word boundaries. The prototypical example of this rule comes from Sanskrit; however, initial consonant
+mutation in contemporary Celtic languages or the linking r phenomenon in some non-rhotic English dialects
+can also be used to illustrate word boundaries.[4]: 17 
+It is often the case that a phonological word does not correspond to our intuitive conception of a word.
+The Finnish compound word pääkaupunki 'capital' is phonologically two words (pää 'head' and kaupunki 'city')
+because it does not conform to Finnish patterns of vowel harmony within words. Conversely, a single phonological
+word may be made up of more than one syntactical elements, such as in the English phrase I'll come, where I'll
+forms one phonological word.[3]: 13:618 
+Lexemes. A word can be thought of as an item in a speaker's internal lexicon; this is called a lexeme. However,
+this may be different from the meaning in everyday speech of "word", since one lexeme includes all inflected
+forms. The lexeme teapot refers to the singular teapot as well as the plural teapots. There is also the question
+to what extent should inflected or compounded words be included in a lexeme, especially in agglutinative
+languages. For example, there is little doubt that in Turkish the lexeme for house should include nominative
+singular ev and plural evler. However, it is not clear if it should also encompass the word evlerinizden 'from
+your houses', formed through regular suffixation. There are also lexemes such as "black and white" or
+"do-it-yourself", which, although consisting of multiple words, still form a single collocation with a set
+meaning.[3]: 13:618 
