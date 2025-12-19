@@ -1,0 +1,82 @@
+body {
+    background-image: url(/ChatGPT\ Image\ Dec\ 19\,\ 2025\,\ 10_36_14\ PM.png);
+    margin: 0;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    overflow: hidden;
+}
+
+.main_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    margin-left: 60px;
+}
+
+.take_infos {
+    margin-top: 50px;
+}
+.take_info {
+    display: flex;
+    flex-direction: column;
+}
+
+.take_info input {
+    margin: 8px 0;
+    padding: 5px;
+    width: 250px;
+    height: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.50);
+}
+
+.message textarea{
+    display: flex;
+    flex-direction: column;
+}
+
+.message textarea {
+    margin: 8px 0;
+    padding: 5px;
+    width: 250px;
+    height: 100px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.50);
+    resize: vertical;
+}
+
+.message button {
+    width: 160px;
+    height: 40px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(151, 78, 65);
+    color: white;
+}
+
+.info_box {
+    margin-top: 65px;
+    margin-left: 50px;
+}
+
+.big {
+    color: white;
+}
+
+.address {
+    margin-top: 60px;
+    color: white;
+}
+
+.copy {
+    margin-left: 550px;
+    margin-top: 135px;
+    color: white;
+}
